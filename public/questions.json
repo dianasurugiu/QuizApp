@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "category": "Istorie",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Cine a fost primul președinte al SUA?",
+        "options": [
+          "George Washington",
+          "Abraham Lincoln",
+          "John Adams"
+        ],
+        "correct": 0
+      },
+      {
+        "id": 2,
+        "text": "În ce an a căzut Imperiul Roman?",
+        "options": [
+          "476",
+          "1453",
+          "1492"
+        ],
+        "correct": 0
+      },
+      {
+        "id": 3,
+        "text": "Cine a descoperit America?",
+        "options": [
+          "Cristofor Columb",
+          "Vasco da Gama",
+          "James Cook"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Stiinta",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Ce planetă este cunoscută ca Planeta Roșie?",
+        "options": [
+          "Marte",
+          "Jupiter",
+          "Venus"
+        ],
+        "correct": 0
+      },
+      {
+        "id": 2,
+        "text": "Ce element are simbolul chimic O?",
+        "options": [
+          "Oxigen",
+          "Aur",
+          "Fier"
+        ],
+        "correct": 0
+      },
+      {
+        "id": 3,
+        "text": "Cine a propus teoria relativității?",
+        "options": [
+          "Albert Einstein",
+          "Isaac Newton",
+          "Galileo Galilei"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Arta",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Cine a pictat Mona Lisa?",
+        "options": [
+          "Leonardo da Vinci",
+          "Vincent Van Gogh",
+          "Michelangelo"
+        ],
+        "correct": 0
+      },
+      {
+        "id": 2,
+        "text": "Ce stil artistic a dezvoltat Pablo Picasso?",
+        "options": [
+          "Cubism",
+          "Impresionism",
+          "Surrealism"
+        ],
+        "correct": 0
+      },
+      {
+        "id": 3,
+        "text": "Cine a sculptat statuia David?",
+        "options": [
+          "Michelangelo",
+          "Donatello",
+          "Bernini"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+  
+]
